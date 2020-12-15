@@ -2,9 +2,7 @@
 
 ## Preview
 
-[![Bare Preview](https://johnhenrygaspay.github.io/test-project/images/bare.png)]
+[![Bare Preview](https://johnhenrygaspay.github.io/test-project/images/bare.png) https://johnhenrygaspay.github.io/test-project/]
 
-**[View Live Preview](https://johnhenrygaspay.github.io/test-project/index.html)**
+**[View Live Preview](https://johnhenrygaspay.github.io/test-project/)**
 
- 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-bare/blob/master/LICENSE) license.
