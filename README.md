@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Bare Preview](https://johnhenrygaspay.github.io/test-project/images/bare.png) https://johnhenrygaspay.github.io/test-project/index.html ]
+[![Bare Preview](https://johnhenrygaspay.github.io/test-project/images/bare.png)]
 
 **[View Live Preview](https://johnhenrygaspay.github.io/test-project/index.html)**
 
